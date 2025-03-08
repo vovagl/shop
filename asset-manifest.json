@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/vovagl/shop.git/static/css/main.3c05c76f.css",
+    "main.js": "/vovagl/shop.git/static/js/main.bbfe81a1.js",
+    "static/js/885.66030f71.chunk.js": "/vovagl/shop.git/static/js/885.66030f71.chunk.js",
+    "static/js/453.c8302752.chunk.js": "/vovagl/shop.git/static/js/453.c8302752.chunk.js",
+    "static/media/Nazareth - We Are Animals.mp3": "/vovagl/shop.git/static/media/Nazareth - We Are Animals.7f15d254b01fe0621f51.mp3",
+    "static/media/category-tablets.png": "/vovagl/shop.git/static/media/category-tablets.51782e18205a1ca01ce8.png",
+    "static/media/image.png": "/vovagl/shop.git/static/media/image.657d3ab1df7b8bbe2811.png",
+    "static/media/category-accessories.png": "/vovagl/shop.git/static/media/category-accessories.e47d6d6df68a6548e82b.png",
+    "static/media/okey.png": "/vovagl/shop.git/static/media/okey.ed11b0abd5b94884154d.png",
+    "static/media/woman.jpg": "/vovagl/shop.git/static/media/woman.4e04e97db1d19aa7c6bd.jpg",
+    "static/media/category-phone.jpg": "/vovagl/shop.git/static/media/category-phone.98e859ee80c0167f6104.jpg",
+    "static/media/Shopping bag (Cart).svg": "/vovagl/shop.git/static/media/Shopping bag (Cart).f9632dca8fdaed9bb696.svg",
+    "static/media/heart.svg": "/vovagl/shop.git/static/media/heart.87fbe581c0493d3cf3f1.svg",
+    "index.html": "/vovagl/shop.git/index.html",
+    "static/media/arrow_left.svg": "/vovagl/shop.git/static/media/arrow_left.73d59763e2c1fcd1d068.svg",
+    "main.3c05c76f.css.map": "/vovagl/shop.git/static/css/main.3c05c76f.css.map",
+    "main.bbfe81a1.js.map": "/vovagl/shop.git/static/js/main.bbfe81a1.js.map",
+    "885.66030f71.chunk.js.map": "/vovagl/shop.git/static/js/885.66030f71.chunk.js.map",
+    "453.c8302752.chunk.js.map": "/vovagl/shop.git/static/js/453.c8302752.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3c05c76f.css",
+    "static/js/main.bbfe81a1.js"
+  ]
+}
